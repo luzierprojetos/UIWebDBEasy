@@ -9,9 +9,9 @@ Project description:
 The objective of this project is to facilitate the creation of web applications management (with data access) from a series of data to be found in a database.
 
 In principle be developed with minimum requirements:
-  - No need for web server.
-  - No need for database server
-  - Only the need for an HTML5 web browser
+ - No need for web server
+ - No need for database server
+ - Only the need for an HTML5 web browser
 
 Allow any person without programming skills can make your web applications access data quickly and easily.
 
