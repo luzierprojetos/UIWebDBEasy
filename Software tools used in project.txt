@@ -4,4 +4,6 @@ Software Tools used in proyect:
   - Git Client: http://windows.github.com/
   - Diagrams Design: https://www.draw.io
   - Data Modeling: https://dev.mysql.com/downloads/tools/workbench
+  - HTML5/ Javascript code editor: http://brackets.io/
+  
   
