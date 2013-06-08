@@ -1,0 +1,7 @@
+Software Tools used in proyect:
+
+  - Code Repository: https://github.com/
+  - Git Client: http://windows.github.com/
+  - Diagrams Design: https://www.draw.io
+  - Data Modeling: https://dev.mysql.com/downloads/tools/workbench
+  
