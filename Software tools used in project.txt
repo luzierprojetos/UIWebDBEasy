@@ -9,5 +9,5 @@ Software Tools used in proyect:
       http://sqlitebrowser.sourceforge.net/
       SQLite ToolBox (Lazarus): http://sourceforge.net/projects/lazarus/files/
   - Proyect Management: Redmine http://www.hostedredmine.com/
-  
+						Redmine Extended Chrome extension (Time Tracking)
   
